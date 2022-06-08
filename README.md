@@ -1,4 +1,4 @@
-# Diagnostyka-raka-piersi-za-pomoca-sieci-MLP
+# Diagnostyka raka piersi za pomoca sieci MLP
 
 <ins>Autorki: </ins>
 - [Katarzyna Latos](https://github.com/latoskasia)
